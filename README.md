@@ -1,7 +1,8 @@
 Services
 
-1)change directory to the specific project directory from command_prompt/terminal : cd ASML-REST-SERVICE/target      //set project path
-2)Run the command : java -jar ASML-REST-SERVICE.jar            //To start the server in PORT 8082
+ 1)cd ASML-REST-SERVICE/target    
+ 
+ 2)java -jar ASML-REST-SERVICE.jar (To start server)
 
 
 
